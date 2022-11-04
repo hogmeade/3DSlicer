@@ -1,0 +1,21 @@
+104/
+IMG_1102 (1).JPG
+NA-MIC/
+Segmentation.nrrd
+Slicer
+\__pycache__/
+anns07/
+anns08/
+anns_temp.zip
+anns_temp/
+bin/
+dicom04/
+dicom05/
+dicom05_old/
+include/
+lib/
+libexec/
+prostate/
+rectum/
+resources/
+share/
