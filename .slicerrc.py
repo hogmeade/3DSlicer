@@ -1,10 +1,10 @@
 import os
 import sys
 # Directories
-segDir = "/home/hpham/slicer/prostate"
-rootDir = "/home/hpham/slicer/"
-reviewDir = "/home/hpham/slicer/anns07"
-expDir = "/home/hpham/slicer/anns08"
+segDir = "/home/hp/slicer/prostate"
+rootDir = "/home/hp/slicer/"
+reviewDir = "/home/hp/slicer/anns07"
+expDir = "/home/hp/slicer/anns08"
 # Hot keys
 restart_hotkey    	= "Ctrl+Shift+R" # Restart 3D Slicer
 rectum_seg_hotkey 	= "Ctrl+Shift+A" # Run rectum segmentation
